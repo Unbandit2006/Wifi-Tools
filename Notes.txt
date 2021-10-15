@@ -1,0 +1,15 @@
+************************
+*       MAIN NOTES     *
+************************
+
+Filenamed: "SharedCode_v10142021.py"
+Is code shared by both CLI (Command-Line Interface) and
+GUI (Graphics User Interface)
+
+Filename: "cli-v10072021.py"
+Is the code for the CLI version of the application.
+It uses reused code from the "shared-code-v10072021.py" file.
+
+Filename: "gui-v10142021.py"
+Is the code for the GUI version of the application
+It uses the code from the "shared-code-v10072021.py" file.
